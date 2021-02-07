@@ -1,2 +1,2 @@
 # Calculator
-calculator application using javafx
+It's a desktop application, developed using java, javafx framework and ui design with sceneBuilder.
